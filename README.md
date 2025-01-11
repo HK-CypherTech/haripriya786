@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haripriya786
-- 👀 I’m interested in Block chain Technologies
-- 🌱 I’m currently learning Block chain Technologies
+- 👀 I’m interested in AI Technologies
+- 🌱 I’m currently learning AI Technologies
 - 💞️ I’m Working at PITSOLUTIONS
 - 📫 How to reach me GITHUB
 
